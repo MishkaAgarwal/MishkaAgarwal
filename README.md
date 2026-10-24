@@ -1,6 +1,7 @@
 ABOUT ME:<br> 
  	Hello! I’m Mishka Agarwal.<br>
- 	I just started learning Python at school, and I'm already loving it!<br>
+ 	I began my codding journey at school, in 7th grade, when i started learning the basics of python. Since then, I've developed my python skills significantly.<br>
+  I've also started learning the basics of java script, and I'm absolutely loving it!<br>
  	Books are my favourite pastime—I could read for hours. I'm also into solving puzzles and murder mysteries. And don’t even get me started on my love for board games!<br>
  	I love playing high strategy games such as the Great Western Trail, The Castles of Burgandy, and a lot more.<br>
  	Math? Totally my thing.<br>
